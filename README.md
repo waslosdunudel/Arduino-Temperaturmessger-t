@@ -1,2 +1,2 @@
 # Arduino-Temperaturmessger-t
-Arduino Temperaturmessgerät
+Arduino Temperaturmessgerät - Ist in der Entwicklung
